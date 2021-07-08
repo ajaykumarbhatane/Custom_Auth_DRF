@@ -1,1 +1,51 @@
 
+Custom Authentication 
+
+
+
+
+
+-----------------------
+GitHub
+signup on github.com
+git download and install
+
+steps to push data from your pc
+open github.com
+click on + on right top side
+1) create repository
+2) Add .gitignore tick on that bcz virtual env skip
+3) create repository
+4) suppose req.txt
+
+-- want to get in your pc
+
+in any Drive suppose F: 
+1) create new folder GIT
+2) in folder right click and git bash here
+3) after that write commant
+
+- 1) git clone https://github.com/ajaykumarbhatane/Demo.git   #url get from github.com there click on code button and copy http url and past
+- 2) cd Demo
+- 3) git status
+* if you has chanages in req.txt in your pc
+- 4) git add req.txt
+- 5) git commit -m "req.txt modification"
+- 6) git push     #after that changes also on github.com
+
+
+for pull
+- if we had changes on github.com in file req.txt 
+ex:- python
+     is easy to learn 
+
+
+- and you want to get on pc then 
+1) git push	
+
+
+if to many files add 
+1) git add -A     #run this command
+
+ 
+
